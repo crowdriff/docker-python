@@ -1,8 +1,8 @@
-# Version 1.0
+# Version 1.1
 
-FROM abh1nav/baseimage
+FROM crowdriff/baseimage
 
-MAINTAINER Abhinav Ajgaonkar <abhinav316@gmail.com>
+MAINTAINER Abhinav Ajgaonkar <abhi@crowdriff.com>
 
 # Install Python & PIP
 RUN \
